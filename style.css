@@ -1,0 +1,11 @@
+html{
+    /* adds padding to the width and height of a box */
+    box-sizing: border-box;
+}
+
+body{
+    margin:0;
+    /* minimum height of the page using viewpoint */
+    min-height: 100vh;
+    
+}
